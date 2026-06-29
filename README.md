@@ -3,10 +3,6 @@
 Welcome to my Machine Learning practice repository!
 This repo contains a collection of small projects and experiments that I’ve built while learning and improving my ML skills.
 
----
-
-## 📌 About This Repository
-
 This repository is a hands-on playground where I practice different machine learning concepts by implementing mini-projects.
 Each project focuses on understanding core ideas like data preprocessing, model building, evaluation, and improvement.
 
