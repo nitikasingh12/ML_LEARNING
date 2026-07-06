@@ -8,7 +8,7 @@ Each project focuses on understanding core ideas like data preprocessing, model 
 
 ---
 
-## 🚀 Projects Included
+
 
 Some of the projects you’ll find here:
 
